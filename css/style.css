@@ -4131,11 +4131,13 @@ h3.archivment-back {
 
 .testmonial-item p {
 
-    color: #d0d0d0;
+    color: #ffffff;
 
-    font-size: 18px;
+    font-size: 25px;
 
-    margin-bottom: 45px;
+    font-weight: bold;
+    
+    margin-bottom: 55px;
 
 }
 
@@ -8013,7 +8015,7 @@ ul.cat li a:hover {
 
 .best-movi-pera-bottom>p {
 
-    color: #888888;
+    color: #000000;
 
     font-size: 15px;
 
