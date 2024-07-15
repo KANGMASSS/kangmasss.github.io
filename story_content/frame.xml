@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="70% Project" />
+              <option name="title_text" value="70% Project rev2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1348,6 +1348,11 @@
         <slidelink slideid="_player.6XCZJND87j3" displaytext="Profil Pengembang" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6XCZJND87j3.6ZyrO7AffWn" displaytext="Profil Pengembang" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.69cMb2neZQJ" displaytext="Gambar " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.69cMb2neZQJ.6ebzIE7QBiq" displaytext="gAMB" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
