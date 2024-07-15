@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="50% Project v1" />
+              <option name="title_text" value="70% Project" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1286,14 +1286,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5WH3yviZ90o" displaytext="Home" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5WH3yviZ90o.6Y591YRXj7X" displaytext="Menu" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.5jcF2x8fXDb" displaytext="Sub Menu" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5jcF2x8fXDb.6HXmUyGfjhw" displaytext="Sub Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.5jcF2x8fXDb.6HXmUyGfjhw" displaytext="Menu Awal" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6m1XVE4xiJd" displaytext="Loading Scene " expand="true" type="slide">
@@ -1308,12 +1303,46 @@
         </slidelink>
         <slidelink slideid="_player.6OFtkXQ2xQZ" displaytext="Materi Pembelajaran" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6OFtkXQ2xQZ.63mptAl3Ar6" displaytext="Materi Pembelajaran" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5czneThX1Qu" displaytext="Materi Pembelajaran" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6OSMYTSFNH6" displaytext="CPU" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6ICs0LRg87J" displaytext="CPU INTEL " expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5zWJr829NxN" displaytext="CPU AMD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5s3LYYbRd9n" displaytext="RAM" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6Byqq1Sjfzb" displaytext="Mhz " expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6aJCsTHiWOC" displaytext="DDR4" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5uzEDID3CNX" displaytext="DDR5" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6I1060l4v2m" displaytext="Motherboard" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5e93pvgrunG" displaytext="Intel" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6SDZQWjPOu8" displaytext="Amd" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.61wYNV7rzto" displaytext="GPU" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6kksK1Mzc4S" displaytext="NVIDIA SERIES GPU" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5WjAVCtEcVV" displaytext="Amd" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6PzohV2Bcf5" displaytext="Cooler" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6VHlBJyp3B8" displaytext="Air Cooler" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.65dP9dQ7wcW" displaytext="Water Cooling" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5xrPmyrf4e6" displaytext="2.Water" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6AC0yE3aDIG" displaytext="Storage" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5ppwpM0pppv" displaytext="Hdd" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6DxYng02i6V" displaytext="SSHD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6ONXSIdsrz9" displaytext="SSD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5hPwTOIto18" displaytext="PSU" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5qwApaG491p" displaytext="80 Rating" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6juPGbyxIfk" displaytext="Modular dan Non Modular" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6MKSomiltBi" displaytext="Quiz" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6MKSomiltBi.6H0KBTt5gpO" displaytext="Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6H0KBTt5gpO" displaytext="Pegantar Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5mzLLaAWbJ4" displaytext="1. Apa fungsi dari CPU dalam sebuah komputer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6eaCqJNBtsk" displaytext="2. Apa fungsi dari thermal paste dalam merakit komputer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6Wvy3EyRWqa" displaytext="3. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6d73ggxEJiW" displaytext="4. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5bySla20gAA" displaytext="5. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.62vfNSg8SVU" displaytext="6. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.602YKrxoc2K" displaytext="7. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5iCrs2Y73PG" displaytext="8. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6iBOZ6mEqLI" displaytext="9. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5oGXNCiFi1S" displaytext="10. " expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6XCZJND87j3" displaytext="Profil Pengembang" expand="true" type="slide">
