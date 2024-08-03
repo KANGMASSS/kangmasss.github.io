@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="70% Project rev2" />
+              <option name="title_text" value="70% Project testing new update 03/08/2024" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1317,17 +1317,22 @@
             <slidelink slideid="_player.6OFtkXQ2xQZ.61wYNV7rzto" displaytext="GPU" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6kksK1Mzc4S" displaytext="NVIDIA SERIES GPU" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5WjAVCtEcVV" displaytext="Amd" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6PzohV2Bcf5" displaytext="Cooler" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6VHlBJyp3B8" displaytext="Air Cooler" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.65dP9dQ7wcW" displaytext="Water Cooling" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.5xrPmyrf4e6" displaytext="2.Water" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6AC0yE3aDIG" displaytext="Storage" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.5ppwpM0pppv" displaytext="Hdd" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6DxYng02i6V" displaytext="SSHD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6PzohV2Bcf5" displaytext="Cooler #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6EYpavwOZAD" displaytext="Cooler #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6VHlBJyp3B8" displaytext="#1 Air Cooler" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6OD8cBSqS2F" displaytext="#2 Air Cooler" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.65dP9dQ7wcW" displaytext="#1 Water Cooling " expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5xrPmyrf4e6" displaytext="#2 Water Cooling" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6AC0yE3aDIG" displaytext="Storage #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.62k4G6FoDTH" displaytext="Storage #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6BC9jkB1x6e" displaytext="Storage #3" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5ppwpM0pppv" displaytext="HDD" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6ONXSIdsrz9" displaytext="SSD" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5hPwTOIto18" displaytext="PSU" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5qwApaG491p" displaytext="80 Rating" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6juPGbyxIfk" displaytext="Modular dan Non Modular" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6QqzVQi5aHT" displaytext="Modular" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6N0p44FcxFn" displaytext="Non Modular" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6MKSomiltBi" displaytext="Quiz" expand="true" type="slide">
@@ -1335,12 +1340,12 @@
             <slidelink slideid="_player.6MKSomiltBi.6H0KBTt5gpO" displaytext="Pegantar Quiz" expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.5mzLLaAWbJ4" displaytext="1. Apa fungsi dari CPU dalam sebuah komputer?" expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.6eaCqJNBtsk" displaytext="2. Apa fungsi dari thermal paste dalam merakit komputer?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.6Wvy3EyRWqa" displaytext="3. " expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.6d73ggxEJiW" displaytext="4. " expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.5bySla20gAA" displaytext="5. " expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.62vfNSg8SVU" displaytext="6. " expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.602YKrxoc2K" displaytext="7. " expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.5iCrs2Y73PG" displaytext="8. " expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6Wvy3EyRWqa" displaytext="3. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6d73ggxEJiW" displaytext="4. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5bySla20gAA" displaytext="5. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.62vfNSg8SVU" displaytext="6. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.602YKrxoc2K" displaytext="7. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5iCrs2Y73PG" displaytext="8. What is Lorem Ipsum?" expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.6iBOZ6mEqLI" displaytext="9. " expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.5oGXNCiFi1S" displaytext="10. " expand="false" type="slide" />
           </links>
