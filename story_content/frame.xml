@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="80% Project testing new update 27/09/2024 - sisa revisi dari dosbing" />
+              <option name="title_text" value="90% Project testing new update 26/10/2024 - sisa revisi dari dosbing" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1304,23 +1304,32 @@
         <slidelink slideid="_player.6OFtkXQ2xQZ" displaytext="Materi Pembelajaran" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6OFtkXQ2xQZ.5czneThX1Qu" displaytext="Materi Pembelajaran" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6OSMYTSFNH6" displaytext="CPU" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.67NhiDCUQr9" displaytext="#CPU" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6OSMYTSFNH6" displaytext="CPU #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.67NhiDCUQr9" displaytext="CPU #2" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6ICs0LRg87J" displaytext="CPU INTEL " expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6cagYyJgfD5" displaytext="#2 CPU INTEL " expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5zWJr829NxN" displaytext="CPU AMD" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.5s3LYYbRd9n" displaytext="RAM" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.5mEubhP0BrS" displaytext="#2 RAM" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.686qYWyepzE" displaytext="#2CPU AMD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5s3LYYbRd9n" displaytext="RAM #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5mEubhP0BrS" displaytext="RAM #2" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6Byqq1Sjfzb" displaytext="MHZ RAM" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6kksK1Mzc4S" displaytext="NVIDIA SERIES GPU" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6I1060l4v2m" displaytext="Motherboard" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6kksK1Mzc4S" displaytext="#GPU NVIDIA" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6I1060l4v2m" displaytext="Motherboard #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.644gk4zgKWz" displaytext="Motherboard #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6W4gQ2aiJTA" displaytext="#BOARD-MOTHER" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6lffsovUVMz" displaytext="ATX" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6GW21dIBtvS" displaytext="M-ATX" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6SKTqWhlGv5" displaytext="M.ITX" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5e93pvgrunG" displaytext="#Motherboard" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6eCPrdBLlOW" displaytext="MOBO-INTEL" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6eCPrdBLlOW" displaytext="#1MOBO-INTEL" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6GRuSItUbV6" displaytext="#2MOBO-INTEL" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5uso4Rjw6w8" displaytext="#3MOBO-INTEL" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6SDZQWjPOu8" displaytext="#1MOBO-AMD" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5XfO2MHHQO2" displaytext="#2 MOBO-AMD" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6kYNL2Feyn4" displaytext="#3 MOBO-AMD" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6WWBv282doj" displaytext="#4 MOBO-AMD" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.61wYNV7rzto" displaytext="GPU" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.5liGjnBTFXm" displaytext="#GPU " expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.61wYNV7rzto" displaytext="GPU #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.5liGjnBTFXm" displaytext="GPU #2 " expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5WjAVCtEcVV" displaytext="RADEON" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6PzohV2Bcf5" displaytext="Cooler #1" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6EYpavwOZAD" displaytext="Cooler #2" expand="false" type="slide" />
@@ -1332,7 +1341,9 @@
             <slidelink slideid="_player.6OFtkXQ2xQZ.62k4G6FoDTH" displaytext="Storage #2" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6BC9jkB1x6e" displaytext="Storage #3" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5ppwpM0pppv" displaytext="HDD" expand="false" type="slide" />
-            <slidelink slideid="_player.6OFtkXQ2xQZ.6ONXSIdsrz9" displaytext="SSD" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6ONXSIdsrz9" displaytext="SATA 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.6Sptx9VUBMU" displaytext="M2.SATA" expand="false" type="slide" />
+            <slidelink slideid="_player.6OFtkXQ2xQZ.638Ko6M2jct" displaytext="NVME" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5hPwTOIto18" displaytext="PSU" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.5qwApaG491p" displaytext="80 Rating" expand="false" type="slide" />
             <slidelink slideid="_player.6OFtkXQ2xQZ.6r9JoNuDX1D" displaytext="Jenis PSU" expand="false" type="slide" />
@@ -1363,7 +1374,7 @@
         </slidelink>
         <slidelink slideid="_player.69cMb2neZQJ" displaytext="Gambar " expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.69cMb2neZQJ.6ebzIE7QBiq" displaytext="gAMB" expand="false" type="slide" />
+            <slidelink slideid="_player.69cMb2neZQJ.6ebzIE7QBiq" displaytext="Gambar" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
