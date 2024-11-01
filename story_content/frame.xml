@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="90% Project testing new update 26/10/2024 - sisa revisi dari dosbing" />
+              <option name="title_text" value="95% Project testing new update 01/11/2024 - sisa revisi dari dosbing" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="remaining" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1286,7 +1286,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5jcF2x8fXDb" displaytext="Sub Menu" expand="true" type="slide">
+        <slidelink slideid="_player.5jcF2x8fXDb" displaytext="Menu" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5jcF2x8fXDb.6HXmUyGfjhw" displaytext="Menu Awal" expand="false" type="slide" />
           </links>
@@ -1357,14 +1357,14 @@
             <slidelink slideid="_player.6MKSomiltBi.6H0KBTt5gpO" displaytext="Pegantar Quiz" expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.5mzLLaAWbJ4" displaytext="1. Apa fungsi dari CPU dalam sebuah komputer?" expand="false" type="slide" />
             <slidelink slideid="_player.6MKSomiltBi.6eaCqJNBtsk" displaytext="2. Apa fungsi dari thermal paste dalam merakit komputer?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.6Wvy3EyRWqa" displaytext="3. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.6d73ggxEJiW" displaytext="4. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.5bySla20gAA" displaytext="5. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.62vfNSg8SVU" displaytext="6. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.602YKrxoc2K" displaytext="7. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.5iCrs2Y73PG" displaytext="8. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.6iBOZ6mEqLI" displaytext="9. What is Lorem Ipsum?" expand="false" type="slide" />
-            <slidelink slideid="_player.6MKSomiltBi.5oGXNCiFi1S" displaytext="10. What is Lorem Ipsum?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6Wvy3EyRWqa" displaytext="3. Apa perbedaan antara SSD dan HDD, dan mana yang lebih baik untuk digunakan sebagai storage utama?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6d73ggxEJiW" displaytext="4. Apa fungsi dari RAM dalam komputer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5bySla20gAA" displaytext="5. Apa yang dimaksud dengan motherboard?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.62vfNSg8SVU" displaytext="6. Apa fungsi dari kartu grafis?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.602YKrxoc2K" displaytext="7. Apa fungsi dari power supply dalam komputer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5iCrs2Y73PG" displaytext="8. Apa yang dimaksud dengan cooling system dalam komputer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.6iBOZ6mEqLI" displaytext="9. Apa yang dimaksud dengan form factor pada motherboard?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MKSomiltBi.5oGXNCiFi1S" displaytext="10. Apa fungsi dari port HDMI pada komputer?" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6XCZJND87j3" displaytext="Profil Pengembang" expand="true" type="slide">
