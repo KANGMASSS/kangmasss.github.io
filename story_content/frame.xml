@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="FINAL.Media Interaktif SMK Muhammadiyah 3 Yogyakarta " />
+              <option name="title_text" value="Media Interaktif SMK Muhammadiyah 3 Yogyakarta " />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1375,6 +1375,11 @@
         <slidelink slideid="_player.69cMb2neZQJ" displaytext="Gambar " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.69cMb2neZQJ.6ebzIE7QBiq" displaytext="Gambar" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.68x8CXo3AdO" displaytext="Referensi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.68x8CXo3AdO.6Tj078ecGqh" displaytext="Halaman Referensi" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
